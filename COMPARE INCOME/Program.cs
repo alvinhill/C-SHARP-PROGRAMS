@@ -62,7 +62,7 @@ namespace COMPARE_INCOME
             Console.WriteLine("");// ADD SPACE
             Console.WriteLine("The Answer is: " + compAns);
             Console.WriteLine("");// ADD SPACE
-            Console.WriteLine("");// ADD SPACE
+            Console.WriteLine(" ");// ADD SPACE
 
 
 
